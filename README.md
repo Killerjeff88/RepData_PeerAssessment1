@@ -23,9 +23,12 @@ print(data_mean)
 print(data_median)
 ```
 
+![plot of chunk unnamed-chunk-2](./RepData_PeerAssessment1/blob/master/figure-html/unnamed-chunk-2.png) 
+
 mean is data_mean.
 
 median is data_median.
+
 
 ###What is the average daily activity pattern?
 
